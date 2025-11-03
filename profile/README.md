@@ -2,7 +2,7 @@
 
 ## About
 FSTPN Cyprus Limited is a privately held company based in Cyprus (EU). THREATINT is part of the cyber security portfolio of FSTPN Cyprus Limited.
-We rovide Cyber Threat Intelligence, Cyber Security Servicesm, and Consulting for organisations of all sizes. 
+We provide Cyber Threat Intelligence, Cyber Security Servicesm, and Consulting for organisations of all sizes. 
 
 ## Feedback
 We would love to hear from you! Please contact us at [help@threatint.eu](mailto:help@threatint.eu) for feedback and general requests.
