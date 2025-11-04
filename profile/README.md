@@ -1,4 +1,4 @@
-<a href="https://www.threatint.eu"><img src="https://raw.githubusercontent.com/threatint/.github/main/profile/THREATINT_h_light.svg" width="200" alt="THREATINT"></a>
+<a href="https://www.threatint.eu"><img src="https://threatint.objcdn.eu/2025.10.001/img/THREATINT_h_light.svg" width="200" alt="THREATINT"></a>
 
 ## About
 FSTPN Cyprus Limited is a privately held company based in Cyprus (EU). THREATINT is part of the cyber security portfolio of FSTPN Cyprus Limited.
