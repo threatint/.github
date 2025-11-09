@@ -1,8 +1,8 @@
 <a href='https://www.threatint.eu'>
-	<picture style='max-width: 200px; display: block;'>
+	<picture>
 		<source srcset='https://threatint.objcdn.eu/2025.10.001/img/THREATINT_h_dark.svg' media='(prefers-color-scheme: dark)' />
 		<source srcset='https://threatint.objcdn.eu/2025.10.001/img/THREATINT_h_light.svg' media='(prefers-color-scheme: light)' />
-		<img src='https://threatint.objcdn.eu/2025.10.001/img/THREATINT_h_light.svg' alt='THREATINT' />
+		<img src='https://threatint.objcdn.eu/2025.10.001/img/THREATINT_h_light.svg' alt='THREATINT' style='max-width: 200px; display: block;' width=200px />
 	</picture>
 </a>
 
